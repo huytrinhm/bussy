@@ -1,0 +1,4 @@
+pyproj==3.6.1
+Rtree==1.2.0
+rustworkx==0.14.2
+shapely==2.0.3
